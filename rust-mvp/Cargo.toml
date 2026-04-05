@@ -1,9 +1,9 @@
 [package]
 name = "rust-mvp"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 [dependencies]
-image = "0.25"
-imageproc = "0.25"
+taffy = "0.5"
+tiny-skia = "0.11"
 ab_glyph = "0.2"
